@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:responsive_builder/src/mediaquery_extensions.dart';
+import 'package:responsive_builder_ui/src/mediaquery_extensions.dart';
 
 class OrientationLayoutBuilder extends StatelessWidget {
   final Widget Function(BuildContext context) potraitLayout;
